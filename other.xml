@@ -1,0 +1,24 @@
+<application>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="5" />
+    <option name="specifiedCMakeExecutablePath" value="/usr/local/bin/cmake" />
+    <option name="useBundledCMake" value="false" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
