@@ -1,7 +1,29 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="id:000000,src:000260,op:arith8,pos:202,val:-29" type="PLAIN_TEXT" />
+      <mapping pattern="triggers" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="templates" type="PLAIN_TEXT" />
+      <mapping pattern="postinst" type="PLAIN_TEXT" />
+      <mapping pattern="prerm" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="changelog" type="PLAIN_TEXT" />
+      <mapping pattern="purge" type="PLAIN_TEXT" />
+      <mapping pattern="Deploying" type="PLAIN_TEXT" />
+      <mapping pattern="postrm" type="PLAIN_TEXT" />
+      <mapping pattern="rules" type="PLAIN_TEXT" />
+      <mapping pattern="requirements-dev" type="PLAIN_TEXT" />
+      <mapping pattern="stack" type="PLAIN_TEXT" />
+      <mapping pattern="compat" type="PLAIN_TEXT" />
+      <mapping pattern="install" type="PLAIN_TEXT" />
+      <mapping pattern="control" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="monit" type="PLAIN_TEXT" />
+      <mapping ext="cql" type="SQL" />
     </extensionMap>
   </component>
 </application>
