@@ -14,4 +14,6 @@
   </inspection_tool>
   <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="UseStrict" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="UseWarnings" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
