@@ -19,8 +19,9 @@
       <mask>*.mxml</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.am</mask>
     </recentFileMasks>
   </component>
 </application>
