@@ -17,6 +17,9 @@
   <CMakeCodeStyleSettings>
     <option name="FORCE_COMMANDS_CASE" value="1" />
   </CMakeCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Objective-C>
     <option name="INDENT_DIRECTIVE_AS_CODE" value="true" />
     <option name="KEEP_NESTED_NAMESPACES_IN_ONE_LINE" value="true" />
