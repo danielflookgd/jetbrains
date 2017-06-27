@@ -25,9 +25,10 @@
       <mask>*.txt</mask>
       <mask>*.tx</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.a</mask>
       <mask>*.am</mask>
+      <mask>*.a</mask>
+      <mask>*.</mask>
+      <mask>*.pl</mask>
     </recentFileMasks>
   </component>
 </application>
