@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="60d883c3-a58b-41a3-9663-bbb955e489a9" name="test" url="http://ec2-54-202-229-70.us-west-2.compute.amazonaws.com">
-        <fileTransfer host="ec2-54-202-229-70.us-west-2.compute.amazonaws.com" port="22" privateKey="$USER_HOME$/.ssh/aws-bein/mm4.pem" accessType="SFTP" keyPair="true">
+        <fileTransfer host="ec2-54-202-229-70.us-west-2.compute.amazonaws.com" port="22" privateKey="$USER_HOME$/.ssh/aws-bein/mm4.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
