@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gpl-3" type="PLAIN_TEXT" />
       <mapping pattern="arrow" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
