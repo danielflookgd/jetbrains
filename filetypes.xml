@@ -1,25 +1,27 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gpl-3" type="PLAIN_TEXT" />
-      <mapping pattern="arrow" type="PLAIN_TEXT" />
-      <mapping pattern="input" type="PLAIN_TEXT" />
-      <mapping pattern="index" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="gpl-3" type="PLAIN_TEXT" />
       <mapping pattern="acme_account" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="license" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="octal" type="PLAIN_TEXT" />
+      <mapping pattern="arrow" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="about" type="PLAIN_TEXT" />
-      <mapping ext="groovy" type="PLAIN_TEXT" />
-      <mapping ext="5 - another heartbeat" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="copyright" type="PLAIN_TEXT" />
-      <mapping ext="a" type="PLAIN_TEXT" />
+      <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="copyright" type="PLAIN_TEXT" />
+      <mapping ext="license" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="a" type="PLAIN_TEXT" />
+      <mapping ext="about" type="PLAIN_TEXT" />
+      <mapping ext="5 - another heartbeat" type="PLAIN_TEXT" />
       <removed_mapping ext="a" type="UNKNOWN" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
